@@ -56,10 +56,16 @@ To run this project on your local machine, follow these steps:
 - Click "Delete" to remove an employee record from the system.
 
 
-
+## List Employees
 ![List Employees](Welcome.png)
-![Updating Employees](Updating Employee.png)
-![addingNewEmployees](Adding New Employee.png)
+
+## Update Exsting Employee
+![UpdateEmployee](UpdatingEmployee.png)
+
+## Add New Employee
+![addNewEmployee](AddingNewEmployee.png)
+
+
 
 This project was created as a learning exercise and is based on tutorials and courses related to Spring Boot and web development.
 
