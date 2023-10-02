@@ -58,6 +58,8 @@ To run this project on your local machine, follow these steps:
 
 
 ![List Employees](Welcome.png)
+![Updating Employees](Updating Employee.png)
+![addingNewEmployees](Adding New Employee.png)
 
 This project was created as a learning exercise and is based on tutorials and courses related to Spring Boot and web development.
 
