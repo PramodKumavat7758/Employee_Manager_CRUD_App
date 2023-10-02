@@ -57,7 +57,7 @@ To run this project on your local machine, follow these steps:
 
 
 
-![List Employees](https://drive.google.com/file/d/1ErNqbj-mPR3GNEVawAehNOOlKQXVD8PE/view?usp=sharing)
+![List Employees](Welcome.png)
 
 This project was created as a learning exercise and is based on tutorials and courses related to Spring Boot and web development.
 
